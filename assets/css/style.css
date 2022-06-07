@@ -163,7 +163,7 @@ section {
     background: #fce138;
 }
 .step {
-    margin: 50PX auto;
+    margin: 50px auto;
     padding-bottom: 50px;
     width: 80%;
     border-bottom: 1px solid #39a6b2;
@@ -204,7 +204,7 @@ section {
 .section-title {
     font-size: 55px;
     color: #024e76;
-    border-bottom: 3px solid #fce138;
+    border-bottom: 3px solid;
     padding-bottom: 20px;
     text-align: center;
     margin: 0 auto 35px auto;
@@ -292,7 +292,7 @@ section {
     font-size: 16px;
     font-style: normal;
 }
-.contact-form, .contact-form textarea {
+.contact-form input, .contact-form textarea {
     border: 1px solid #024e76;
     display: block;
     padding: 7px 15px;
